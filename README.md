@@ -1,11 +1,7 @@
 ## Hi there 👋
 
-<!--
-**Ankuraxz/Ankuraxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
 
-
-* 🔭 __About me:__ I'm a Deep Learning Practioner who loves to work with Images. I recently won Smart India Hackathon 2020 and love to code 
+* 🔭 __About me:__ I'm a final year student pursuing Bachelors in Electronics and Communication, I am also a Deep Learning Practioner who loves to work with Images. I recently won Smart India Hackathon 2020 and love to code 
 
 * ✨ I’m currently learning Devops and Cloud Computing  
 
