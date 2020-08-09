@@ -7,7 +7,7 @@
 
 * 🔭 __About me:__ I'm a Deep Learning Practioner who loves to work with Images. I recently won Smart India Hackathon 2020 and love to code 
 
-* 🌱 I’m currently learning Devops and Cloud Computing  
+* ✨ I’m currently learning Devops and Cloud Computing  
 
 * 👯 I’m looking to collaborate on Almost anything related to ML. Always looking for great opportunities and Ideas  
 
