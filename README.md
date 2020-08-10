@@ -22,21 +22,21 @@ I am also author at [ROBOTICSUNITED](https://www.instagram.com/roboticsunited/?h
 >Data structures and Algorithms, Kubernetes, Docker, GKE, Git, Azure, GCP, VScode, Vim, Sublime Text
 
 # Currently Learning🎯
-👉 Devops and MLops
+>👉 Devops and MLops
 
-👉 Cloud Computing
+>👉 Cloud Computing
 
-👉 Serverless and ML Deployment over Azure Pipelines
+>👉 Serverless and ML Deployment over Azure Pipelines
 
-👉 ML deployment: Android and iOS --> Tflite, Tf.js, CoreML
+>👉 ML deployment: Android and iOS --> Tflite, Tf.js, CoreML
 
-👉 ML deployment: Rpi --> Docker
+>👉 ML deployment: Rpi --> Docker
 
-👉 ML deployment: Jetson Nano --> TensorRT
+>👉 ML deployment: Jetson Nano --> TensorRT
 
-👉 ML deployment: Arduino --> Tflite micro
+>👉 ML deployment: Arduino --> Tflite micro
 
-👉 GraphQL
+>👉 GraphQL, ElasticSearch, Kubernetes etc.
 
 # Looking to Collaborate on 👯
 > I’m looking to collaborate on Almost anything related to ML and beyond. Always looking for great opportunities and Ideas  
