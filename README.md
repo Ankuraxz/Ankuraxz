@@ -23,11 +23,17 @@ I am also arthur at [ROBOTICSUNITED](https://www.instagram.com/roboticsunited/?h
 
 # Currently Learning🎯
 👉 Devops and MLops
+
 👉 Cloud Computing
+
 👉 Serverless and ML Deployment over Azure Pipelines
+
 👉 ML deployment: Android and iOS --> Tflite, Tf.js, CoreML
+
 👉 ML deployment: Rpi --> Docker
+
 👉 ML deployment: Jetson Nano --> TensorRT
+
 👉 ML deployment: Arduino --> Tflite micro
 
 # Looking to Collaborate on 👯
