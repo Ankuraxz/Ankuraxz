@@ -7,7 +7,7 @@
 
 * 👯 I’m looking to collaborate on Almost anything related to ML. Always looking for great opportunities and Ideas  
 
-* 💬 Ask me about Machine Learing, Tensorflow, Image Processing  
+* 💬 Ask me about Machine Learing, Tensorflow, Image Processing and Computer Vision
 
 * 📫 How to reach me: [Gmail](mailto:ankurvermaaxz@gmail.com)  [LinkedIn](https://www.linkedin.com/in/ankuraxz/)  [Twitter](https://twitter.com/DEV__Ankur)   
 
