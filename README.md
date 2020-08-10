@@ -1,17 +1,17 @@
 # Hi there 👋, Welcome to my Github Profile
-🔭 __About me:__  I am Ankur, a final year student pursuing Bachelors in Tech. (Electronics and Communication Engineering). I am a Deep Learning Research Intern, a Data Analytics Practioner and CLoud-Devops Enthusiast. I love visualising and playing with data specially Images. I recently won __*Smart India Hackathon 2020*__ which is the Largest Open innovation model Hackathon in India organised by Government of India powered by Amazon and Intel. Checkout my [Resume](https://www.dropbox.com/s/7w3815l96rx23ev/Ankur_Resume.pdf?dl=0)
+🔭 __About me:__  I am Ankur, a final year student pursuing Bachelors in Tech. (Electronics and Communication Engineering). I am a Deep Learning Research Intern, a Data Analytics practitioner and CLoud-Devops Enthusiast. I love visualising and playing with data specially Images. I recently won __*Smart India Hackathon 2020*__ which is the Largest Open innovation model Hackathon in India organised by Government of India powered by Amazon and Intel. Checkout my [Resume](https://www.dropbox.com/s/7w3815l96rx23ev/Ankur_Resume.pdf?dl=0)
 
 I am also author at [ROBOTICSUNITED](https://www.instagram.com/roboticsunited/?hl=en)
 
 # Skills🥇
 ## Languages
-> Python 3, C/C++, SQL, Arduino, Matlab
+> Python 3, C/C++, SQL, Arduino, MATLAB
 ## OS
 > Linux/GNU, Windows
 ## Data Science
 > Machine Learning, Deep Learning, Predictive Modelling, Data Analysis, Data Visualization, Computer Vision, SQL, Natural Language Processing, Image Processing, Tableau *[TABLEAU Profile](https://public.tableau.com/profile/ankur3446#!)* and Stats.(Obviously!)
 ## Frameworks and Libraries
->Tensorflow 2, Keras, Sklearn, SKimage, NLTK, Flask, ONNX, Jupyter
+>TensorFlow 2, Keras, Sklearn, SKimage, NLTK, Flask, ONNX, Jupyter
 >Gensim, ggplot2, Matplotlib, numpy, scipy, D-Lib, TensorRT, open-cv, Firebase, SQL, Pandas, json
 ## Databases
 > MYSQL, SQLite, No SQL, Firebase, Microsoft SQLserver
@@ -42,7 +42,7 @@ I am also author at [ROBOTICSUNITED](https://www.instagram.com/roboticsunited/?h
 > I’m looking to collaborate on Almost anything related to ML and beyond. Always looking for great opportunities and Ideas  
 
 # ASK ME ABOUT 💬
-> Ak me about Machine Learing, Deep Learning, Image Processing and Computer Vision
+> Ask me about Machine Learning, Deep Learning, Image Processing and Computer Vision
 
 # CONTACT ME 📫
 📩 [Email](mailto:ankurvermaaxz@gmail.com)
