@@ -36,6 +36,8 @@ I am also author at [ROBOTICSUNITED](https://www.instagram.com/roboticsunited/?h
 
 👉 ML deployment: Arduino --> Tflite micro
 
+👉 GraphQL
+
 # Looking to Collaborate on 👯
 > I’m looking to collaborate on Almost anything related to ML and beyond. Always looking for great opportunities and Ideas  
 
