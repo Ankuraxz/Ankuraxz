@@ -5,11 +5,8 @@ I am also author at  <a href="https://www.instagram.com/roboticsunited/?hl=en" t
 <a href="https://www.youtube.com/in/ANKURaxz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ANKURaxz" height="20" width="20" /> [YOUTUBE](https://www.youtube.com/in/ANKURaxz)
 
 <p align="center">
-    <a href="https://github.com/ankuraxz/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/aankuraxz/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://codecov.io/gh/ankuraxz/github-readme-stats">
-      <img src="https://codecov.io/gh/ankuraxz/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://github.com/ankuraxz/github-readme-stats/commits">
+      <img alt="Issues" src="https://img.shields.io/github/commits/ankuraxz/github-readme-stats?color=0088ff" />
     </a>
     <a href="https://github.com/ankuraxz/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/ankuraxz/github-readme-stats?color=0088ff" />
@@ -18,6 +15,7 @@ I am also author at  <a href="https://www.instagram.com/roboticsunited/?hl=en" t
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/ankuraxz/github-readme-stats?color=0088ff" />
     </a>
     <br />
+   </p>
 
 # Skills🥇
 ## Languages
