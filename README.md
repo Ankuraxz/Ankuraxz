@@ -47,9 +47,9 @@ I am also author at [ROBOTICSUNITED](https://www.instagram.com/roboticsunited/?h
 # CONTACT ME 📫
 📩 [Email](mailto:ankurvermaaxz@gmail.com)
 
-📱  [LinkedIn](https://www.linkedin.com/in/ankuraxz/)
+<a href="https://www.linkedin.com/in/ankuraxz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nirmal-silwal" height="20" width="20" /> [LinkedIn](https://www.linkedin.com/in/ankuraxz/)
 
-📲  <a href="https://twitter.com/DEV__Ankur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="silwal_nirmal" height="20" width="20" />  
+<a href="https://twitter.com/DEV__Ankur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="silwal_nirmal" height="20" width="20" />  [Twitter](https://twitter.com/DEV__Ankur)
 
 # ⚡ Quote ⚡: 
 > __*"What I can't create, I don't understand"*__ - R.Feynman  
