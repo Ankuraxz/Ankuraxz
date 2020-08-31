@@ -1,5 +1,7 @@
 # Hi there 👋, Welcome to my Github Profile
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ankuraxz" alt="ankuraxz" /> </p>
+![Ankur's github stats](https://github-readme-stats.vercel.app/api?username=Ankuraxz&show_icons=true&theme=gotham&hide=issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankuraxz&layout=compact)](https://github.com/ankuraxz/github-readme-stats)
 
 🔭 __About me:__  I am Ankur, a final year student pursuing Bachelors in Tech. (Electronics and Communication Engineering). I am a Deep Learning Research Intern, a Data Analytics practitioner and CLoud-Devops Enthusiast. I love visualising and playing with data specially Images. I recently won __*Smart India Hackathon 2020*__ which is the Largest Open innovation model Hackathon in India organised by Government of India powered by Amazon and Intel. 
 
