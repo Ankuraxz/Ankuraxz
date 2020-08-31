@@ -41,10 +41,10 @@ I am also author at  <a href="https://www.instagram.com/roboticsunited/?hl=en" t
 👉 GraphQL, ElasticSearch, Kubernetes etc.
 
 # Looking to Collaborate on 👯
-> I’m looking to collaborate on Almost anything related to ML and beyond. Always looking for great opportunities and Ideas  
+I’m looking to collaborate on Almost anything related to ML and beyond. Always looking for great opportunities and Ideas  
 
 # ASK ME ABOUT 💬
-> Ask me about Machine Learning, Deep Learning, Image Processing and Computer Vision
+Ask me about Machine Learning, Deep Learning, Image Processing and Computer Vision
 
 # CONTACT ME 📫
 <a href="mailto:ankurvermaaxz@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Ankurvermaaxz@gmail.com" height="20" width="20" /> [Email](mailto:ankurvermaaxz@gmail.com)
