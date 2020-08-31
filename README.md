@@ -1,19 +1,20 @@
 # Hi there 👋, Welcome to my Github Profile
 <p align="center">
 <a href="https://github.com/ankuraxz/github-profile-readme-generator/blob/master/LICENSE" target="blank">
-<img src="https://img.shields.io/github/license/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator licence" />
+<img src="https://img.shields.io/github/license/ankuraxz/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator licence" />
 </a>
 <a href="https://github.com/ankuraxz/github-profile-readme-generator/fork" target="blank">
-<img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
+<img src="https://img.shields.io/github/forks/ankuraxz/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
 </a>
 <a href="https://github.com/ankuraxz/github-profile-readme-generator/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
+<img src="https://img.shields.io/github/stars/ankuraxz/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
 </a>
 <a href="https://github.com/ankuraxz/github-profile-readme-generator/issues" target="blank">
-<img src="https://img.shields.io/github/issues/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
+<img src="https://img.shields.io/github/issues/ankuraxz/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
 </a>
 <a href="https://github.com/ankuraxz/github-profile-readme-generator/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+<img src="https://img.shields.io/github/issues-pr/ankuraxz/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+ </a>
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=ankuraxz" alt="ankuraxz" />
 </p>
