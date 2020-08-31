@@ -18,7 +18,7 @@ Checkout my [RESUME](https://www.dropbox.com/s/7w3815l96rx23ev/Ankur_Resume.pdf?
 > Linux/GNU, Windows
 ## Data Science
 > Machine Learning, Deep Learning, Predictive Modelling, Data Analysis, Data Visualization, Computer Vision, SQL, Natural Language Processing, Image Processing, Tableau  and Stats.(Obviously!)
-Check My Tableau Profile here --> <a href="https://public.tableau.com/profile/ankur3446#!" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg" alt="Ankurvermaaxz@gmail.com" height="20" width="20" />[Ankur's Tableau Profile](https://public.tableau.com/profile/ankur3446#!)
+Check My Tableau Profile here --> <a href="https://public.tableau.com/profile/ankur3446#!" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg" alt="Ankurvermaaxz@gmail.com" height="20" width="20" /> [Ankur's Tableau Profile](https://public.tableau.com/profile/ankur3446#!)
 ## Frameworks and Libraries
 >TensorFlow 2, Keras, Sklearn, SKimage, NLTK, Flask, ONNX, Jupyter
 
