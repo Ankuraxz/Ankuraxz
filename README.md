@@ -56,5 +56,5 @@ I am also author at  <a href="https://www.instagram.com/roboticsunited/?hl=en" t
 # ⚡ Quote ⚡: 
 > __*"What I can't create, I don't understand"*__ - R.Feynman  
 
-![Ankur's github stats](https://github-readme-stats.vercel.app/api?username=ankuraxz&show_icons=true&theme=gotham&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankuraxz&layout=compact)](https://github.com/ankuraxz/github-readme-stats)
+![Ankur's github stats](https://github-readme-stats.vercel.app/api?username=Ankuraxz&show_icons=true&theme=gotham&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankuraxz&layout=compact)](https://github.com/ankuraxz/github-readme-stats)
