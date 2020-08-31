@@ -14,11 +14,13 @@ I am also author at  <a href="https://www.instagram.com/roboticsunited/?hl=en" t
 > Machine Learning, Deep Learning, Predictive Modelling, Data Analysis, Data Visualization, Computer Vision, SQL, Natural Language Processing, Image Processing, Tableau *[TABLEAU Profile](https://public.tableau.com/profile/ankur3446#!)* and Stats.(Obviously!)
 ## Frameworks and Libraries
 >TensorFlow 2, Keras, Sklearn, SKimage, NLTK, Flask, ONNX, Jupyter
+
 >Gensim, ggplot2, Matplotlib, numpy, scipy, D-Lib, TensorRT, open-cv, Firebase, SQL, Pandas, json
 ## Databases
 > MYSQL, SQLite, No SQL, Firebase, Microsoft SQLserver
 ## IoT
 >Arduino with sensors, Raspberry Pi, Nvidia Jetson nano, NodeMCU
+
 >Proteus, EasyEDA, Fritzing, Thingspeak and Adafruit.io
 ## Other
 >Data structures and Algorithms, Kubernetes, Docker, GKE, Git, Azure, GCP, VScode, Vim, Sublime Text
