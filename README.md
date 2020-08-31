@@ -1,5 +1,20 @@
 # Hi there 👋, Welcome to my Github Profile
 <p align="center">
+<a href="https://github.com/ankuraxz/github-profile-readme-generator/blob/master/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator licence" />
+</a>
+<a href="https://github.com/ankuraxz/github-profile-readme-generator/fork" target="blank">
+<img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
+</a>
+<a href="https://github.com/ankuraxz/github-profile-readme-generator/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
+</a>
+<a href="https://github.com/ankuraxz/github-profile-readme-generator/issues" target="blank">
+<img src="https://img.shields.io/github/issues/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
+</a>
+<a href="https://github.com/ankuraxz/github-profile-readme-generator/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+<p align="center">
  <img src="https://komarev.com/ghpvc/?username=ankuraxz" alt="ankuraxz" />
 </p>
 🔭 __About me:__  I am Ankur, a final year student pursuing Bachelors in Tech. (Electronics and Communication Engineering). I am a Deep Learning Research Intern, a Data Analytics practitioner and CLoud-Devops Enthusiast. I love visualising and playing with data specially Images. I recently won __*Smart India Hackathon 2020*__ which is the Largest Open innovation model Hackathon in India organised by Government of India powered by Amazon and Intel. Checkout my [Resume](https://www.dropbox.com/s/7w3815l96rx23ev/Ankur_Resume.pdf?dl=0)
