@@ -2,20 +2,8 @@
 🔭 __About me:__  I am Ankur, a final year student pursuing Bachelors in Tech. (Electronics and Communication Engineering). I am a Deep Learning Research Intern, a Data Analytics practitioner and CLoud-Devops Enthusiast. I love visualising and playing with data specially Images. I recently won __*Smart India Hackathon 2020*__ which is the Largest Open innovation model Hackathon in India organised by Government of India powered by Amazon and Intel. Checkout my [Resume](https://www.dropbox.com/s/7w3815l96rx23ev/Ankur_Resume.pdf?dl=0)
 
 I am also author at  <a href="https://www.instagram.com/roboticsunited/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="RoboticsUnited" height="20" width="20" />[ROBOTICSUNITED](https://www.instagram.com/roboticsunited/?hl=en) 
-<a href="https://www.youtube.com/in/ANKURaxz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ANKURaxz" height="20" width="20" /> [YOUTUBE](https://www.youtube.com/in/ANKURaxz)
+<a href="https://www.youtube.com/in/ANKURaxz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ANKURaxz" height="20" width="20" /> [YOUTUBE](https://www.youtube.com/in/ANKURaxz)
 
-<p align="center">
-    <a href="https://github.com/ankuraxz/github-readme-stats/commits">
-      <img alt="Issues" src="https://img.shields.io/github/commits/ankuraxz/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/ankuraxz/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/ankuraxz/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/ankuraxz/github-readme-stats?color=0088ff" />
-    </a>
-    <br />
-   </p>
 
 # Skills🥇
 ## Languages
