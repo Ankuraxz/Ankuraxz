@@ -1,5 +1,5 @@
 # Hi there 👋, Welcome to my Github Profile
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/ankuraxz/github-profile-readme-generator/blob/master/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/ankuraxz/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator licence" />
 </a>
@@ -15,6 +15,7 @@
 <a href="https://github.com/ankuraxz/github-profile-readme-generator/pulls" target="blank">
 <img src="https://img.shields.io/github/issues-pr/ankuraxz/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
  </a>
+ </p> -->
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=ankuraxz" alt="ankuraxz" />
 </p>
