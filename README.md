@@ -1,7 +1,7 @@
 # Hi there 👋, Welcome to my Github Profile
 🔭 __About me:__  I am Ankur, a final year student pursuing Bachelors in Tech. (Electronics and Communication Engineering). I am a Deep Learning Research Intern, a Data Analytics practitioner and CLoud-Devops Enthusiast. I love visualising and playing with data specially Images. I recently won __*Smart India Hackathon 2020*__ which is the Largest Open innovation model Hackathon in India organised by Government of India powered by Amazon and Intel. Checkout my [Resume](https://www.dropbox.com/s/7w3815l96rx23ev/Ankur_Resume.pdf?dl=0)
 
-I am also author at <a href="https://www.instagram.com/roboticsunited/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nirmal_silwal97" height="20" width="20" />[ROBOTICSUNITED](https://www.instagram.com/roboticsunited/?hl=en)
+I am also author at  <a href="https://www.instagram.com/roboticsunited/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nirmal_silwal97" height="20" width="20" />[ROBOTICSUNITED](https://www.instagram.com/roboticsunited/?hl=en)
 
 # Skills🥇
 ## Languages
@@ -54,3 +54,4 @@ I am also author at <a href="https://www.instagram.com/roboticsunited/?hl=en" ta
 # ⚡ Quote ⚡: 
 > __*"What I can't create, I don't understand"*__ - R.Feynman  
 
+![Ankur's github stats](https://github-readme-stats.vercel.app/api?username=ankuraxz&show_icons=true&theme=gotham)
