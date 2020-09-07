@@ -29,7 +29,7 @@ Checkout my [RESUME](https://www.dropbox.com/s/7w3815l96rx23ev/Ankur_Resume.pdf?
 ## IoT
 >Arduino with sensors, Raspberry Pi, Nvidia Jetson nano, NodeMCU
 
->Proteus, EasyEDA, Fritzing, Thingspeak and Adafruit.io
+>Proteus, EasyEDA, Fritzing, TinkerCAD, Thingspeak and Adafruit.io
 ## Other
 >Data structures and Algorithms, Kubernetes, Docker, GKE, Git, Azure, GCP, VScode, Vim, Sublime Text
 
