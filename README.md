@@ -31,7 +31,7 @@ Checkout my [RESUME](https://www.dropbox.com/s/7w3815l96rx23ev/Ankur_Resume.pdf?
 
 >Proteus, EasyEDA, Fritzing, TinkerCAD, Thingspeak and Adafruit.io
 ## Other
->Data structures and Algorithms, Kubernetes, Docker, GKE, Git, Azure, GCP, VScode, Vim, Sublime Text
+>Data structures and Algorithms, Kubernetes, Docker, RESTapi GKE, Git, Azure, GCP, VScode, Vim, Sublime Text
 
 # Currently Learning🎯
 👉 Devops and MLops
