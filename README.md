@@ -38,6 +38,8 @@ Checkout my [RESUME](https://www.dropbox.com/s/7w3815l96rx23ev/Ankur_Resume.pdf?
 
 👉 Cloud Computing
 
+👉 Big Data Analytics
+
 👉 Serverless and ML Deployment over Azure Pipelines
 
 👉 ML deployment: Android and iOS --> Tflite, Tf.js, CoreML
