@@ -1,5 +1,5 @@
 # Hi there 👋, Welcome to my Github Profile
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankuraxz" alt="ankuraxz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankuraxz" alt="Visitor Count" /> </p>
 
 ![Ankur's github stats](https://github-readme-stats.vercel.app/api?username=Ankuraxz&show_icons=true&theme=gotham&hide=issues,stars&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankuraxz&layout=compact)](https://github.com/ankuraxz/github-readme-stats)
@@ -37,7 +37,7 @@ Checkout my [RESUME](https://www.dropbox.com/s/cb9k9tlmdofc1rl/Ankur_Resume.pdf?
 # Currently Learning🎯
 👉 Devops and MLops
 
-👉 Cloud Computing
+👉 Cloud Computing - GCP and Azure
 
 👉 Big Data Analytics
 
