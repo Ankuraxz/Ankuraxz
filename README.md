@@ -15,7 +15,7 @@ Checkout my [RESUME](https://www.dropbox.com/s/cb9k9tlmdofc1rl/Ankur_Resume.pdf?
 ## Languages
 > Python 3, C/C++, SQL, Arduino, MATLAB
 ## OS
-> Linux/GNU, Windows
+> Linux, Windows
 ## Data Science
 > Machine Learning, Deep Learning, Predictive Modelling, Data Analysis, Data Visualization, Computer Vision, SQL, Natural Language Processing, Image Processing, Tableau  and Stats.
 
