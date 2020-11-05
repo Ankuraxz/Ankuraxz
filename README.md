@@ -4,6 +4,10 @@
   <a href="https://twitter.com/intent/follow?screen_name=DEV__ankur">
         <img src="https://img.shields.io/twitter/follow/DEV__ankur?style=social&logo=twitter"
             alt="follow on Twitter"></a>
+ <a href="https://github.com/Ankuraxz?tab=followers">
+        <img src="https://img.shields.io/github/followers/Ankuraxz?label=Follow&style=social"
+            alt="follow on Github"></a>
+             
 </p>
 
 ![Ankur's github stats](https://github-readme-stats.vercel.app/api?username=Ankuraxz&show_icons=true&theme=gotham&hide=issues,stars&count_private=true)
