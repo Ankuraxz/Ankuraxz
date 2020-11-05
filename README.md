@@ -1,5 +1,10 @@
 # Hi there 👋, Welcome to my Github Profile
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankuraxz" alt="Visitor Count" /> </p>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=ankuraxz" alt="Visitor Count" />
+  <a href="https://twitter.com/intent/follow?screen_name=DEV__ankur">
+        <img src="https://img.shields.io/twitter/follow/DEV__ankur?style=social&logo=twitter"
+            alt="follow on Twitter"></a>
+</p>
 
 ![Ankur's github stats](https://github-readme-stats.vercel.app/api?username=Ankuraxz&show_icons=true&theme=gotham&hide=issues,stars&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankuraxz&layout=compact)](https://github.com/ankuraxz/github-readme-stats)
