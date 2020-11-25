@@ -54,11 +54,7 @@ Checkout my [RESUME](https://www.dropbox.com/s/cb9k9tlmdofc1rl/Ankur_Resume.pdf?
 
 👉 ML deployment: Android and iOS --> Tflite, Tf.js, CoreML
 
-👉 ML deployment: Rpi --> Docker
-
-👉 ML deployment: Jetson Nano --> TensorRT
-
-👉 ML deployment: Arduino --> Tflite micro
+👉 Promethus and Grafana
 
 # Looking to Collaborate on 👯
 I’m looking to collaborate on Almost anything related to ML and beyond. Always looking for great opportunities and Ideas  
