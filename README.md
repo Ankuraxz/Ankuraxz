@@ -20,7 +20,7 @@
 
 🔭 __About me:__  I am Ankur, a final year student pursuing Bachelors in Tech. (Electronics and Communication Engineering). I am a Deep Learning Research Intern, a Data Analytics practitioner and Cloud-Devops Enthusiast. I love visualizing and playing with data specially Images. I recently won __*Smart India Hackathon 2020*__ which is the Largest Open innovation model Hackathon in India organised by Government of India powered by Amazon and Intel. I am also mentor at various students clubs like [@dscuietkuk](https://github.com/dscuietkuk), IOSD, MSP etc. In my free time, I love to cook my favourite recipies, do gardening, read spritual texts and surf social media. 
 
-I am also creator at  <a href="https://www.instagram.com/roboticsunited/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="RoboticsUnited" height="20" width="20" />[ROBOTICSUNITED](https://www.instagram.com/roboticsunited/?hl=en)  <a href="https://www.youtube.com/ANKURaxz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ANKURaxz" height="20" width="20" />[YOUTUBE](https://www.youtube.com/ANKURaxz) 
+I am also creator at  <a href="https://www.instagram.com/roboticsunited/?hl=en" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" height="25" width="25" />[ROBOTICSUNITED](https://www.instagram.com/roboticsunited/?hl=en)  <a href="https://www.youtube.com/ANKURaxz" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" alt="ANKURaxz" height="25" width="35" />[YOUTUBE](https://www.youtube.com/ANKURaxz) 
  
 Checkout my [RESUME](https://www.dropbox.com/s/cb9k9tlmdofc1rl/Ankur_Resume.pdf?dl=0 "Ankur's Resume")
 
@@ -33,7 +33,7 @@ Checkout my [RESUME](https://www.dropbox.com/s/cb9k9tlmdofc1rl/Ankur_Resume.pdf?
 ## Data Science
 > Machine Learning, Deep Learning, Predictive Modelling, Data Analysis, Data Visualization, Computer Vision, SQL, Natural Language Processing, Image Processing, Tableau  and Stats.
 
->Check My Tableau Profile here --> <a href="https://public.tableau.com/profile/ankur3446#!" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg" alt="Ankurvermaaxz@gmail.com" height="20" width="20" /> [Tableau Profile](https://public.tableau.com/profile/ankur3446#!)
+>Check My Tableau Profile here --> <a href="https://public.tableau.com/profile/ankur3446#!" target="blank"><img align="center" src="https://i.pinimg.com/originals/86/35/88/863588a71e465cc3aa5d822c0feafea9.png" alt="Ankurvermaaxz@gmail.com" height="30" width="35" /> [Tableau Profile](https://public.tableau.com/profile/ankur3446#!)
 ## Frameworks and Libraries
 >TensorFlow 2, Keras, Sklearn, SKimage, NLTK, Flask, ONNX, Jupyter
 
@@ -47,7 +47,7 @@ Checkout my [RESUME](https://www.dropbox.com/s/cb9k9tlmdofc1rl/Ankur_Resume.pdf?
 ## Other
 >Data structures and Algorithms, Kubernetes, Docker, RESTapi GKE, Git, Azure, GCP, VScode, Vim, Sublime Text
 
->Check My QwikLabs Profile here --> <a href="https://www.qwiklabs.com/public_profiles/1d0b8f31-f62d-4e8e-9770-644baca0041f" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/qwiklabs.svg" alt="Ankurvermaaxz@gmail.com" height="20" width="20" /> [QwikLabs Profile](https://www.qwiklabs.com/public_profiles/1d0b8f31-f62d-4e8e-9770-644baca0041f)
+>Check My QwikLabs Profile here --> <a href="https://www.qwiklabs.com/public_profiles/1d0b8f31-f62d-4e8e-9770-644baca0041f" target="blank"><img align="center" src="https://1.bp.blogspot.com/-Of27Ewb6GRc/XJbAUXBXjnI/AAAAAAAAJbw/uAxGLY5-9JU1GUJcNBenxK_wSs6un2hsgCK4BGAYYCw/s1600/logo%2Bqwiklabs%2Bicon.png" alt="Ankurvermaaxz@gmail.com" height="25" width="25" /> [QwikLabs Profile](https://www.qwiklabs.com/public_profiles/1d0b8f31-f62d-4e8e-9770-644baca0041f)
 # Currently Learning🎯
 👉 Devops and MLops
 
@@ -68,11 +68,11 @@ I’m looking to collaborate on Almost anything related to ML and beyond. Always
 Ask me about Machine Learning, Deep Learning, Image Processing and Computer Vision
 
 # CONTACT ME 📫
-<a href="mailto:ankurvermaaxz@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Ankurvermaaxz@gmail.com" height="20" width="20" /> [Email](mailto:ankurvermaaxz@gmail.com)
+<a href="mailto:ankurvermaaxz@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" alt="Ankurvermaaxz@gmail.com" height="25" width="35" /> [Email](mailto:ankurvermaaxz@gmail.com)
 
-<a href="https://www.linkedin.com/in/ankuraxz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ankuraxz" height="20" width="20" /> [LinkedIn](https://www.linkedin.com/in/ankuraxz/)
+<a href="https://www.linkedin.com/in/ankuraxz/" target="blank"><img align="center" src="https://icon-library.com/images/linkedin-icon-eps/linkedin-icon-eps-29.jpg" alt="Ankuraxz" height="25" width="25" /> [LinkedIn](https://www.linkedin.com/in/ankuraxz/)
 
-<a href="https://twitter.com/DEV__Ankur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="DEV__Ankur" height="20" width="20" />  [Twitter](https://twitter.com/DEV__Ankur)
+<a href="https://twitter.com/DEV__Ankur" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="DEV__Ankur" height="25" width="25" />  [Twitter](https://twitter.com/DEV__Ankur)
 
 # ⚡ Quote ⚡: 
 __*"What I can't create, I don't understand"*__ - R.Feynman  
