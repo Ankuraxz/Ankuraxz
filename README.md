@@ -22,7 +22,7 @@
 
 I am also creator at  <a href="https://www.instagram.com/roboticsunited/?hl=en" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" height="25" width="25" />[ROBOTICSUNITED](https://www.instagram.com/roboticsunited/?hl=en)  <a href="https://www.youtube.com/ANKURaxz" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" alt="ANKURaxz" height="25" width="35" />[YOUTUBE](https://www.youtube.com/ANKURaxz) 
  
-Checkout my [RESUME](https://www.dropbox.com/s/cb9k9tlmdofc1rl/Ankur_Resume.pdf?dl=0 "Ankur's Resume")
+Checkout my [RESUME](https://www.dropbox.com/s/bkqcpfdfp6155p4/Ankur_Resume.pdf?dl=0 "Ankur's Resume")
 
 
 # Skills🥇
