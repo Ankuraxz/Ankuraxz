@@ -27,17 +27,23 @@ Checkout my [RESUME](https://www.dropbox.com/s/bkqcpfdfp6155p4/Ankur_Resume.pdf?
 
 # Skills🥇
 ## Languages
-> Python 3, C/C++, SQL, Arduino, MATLAB
+> Python 3, C/C++, SQL, Arduino, MATLAB, NoSQL
+
 ## OS
-> Linux, Windows
+> Ubuntu, Windows
+
 ## Data Science
 > Machine Learning, Deep Learning, Predictive Modelling, Data Analysis, Data Visualization, Computer Vision, SQL, Natural Language Processing, Image Processing, Tableau  and Stats.
-
 >Check My Tableau Profile here --> <a href="https://public.tableau.com/profile/ankur3446#!" target="blank"><img align="center" src="https://i.pinimg.com/originals/86/35/88/863588a71e465cc3aa5d822c0feafea9.png" alt="Ankurvermaaxz@gmail.com" height="30" width="35" /> [Tableau Profile](https://public.tableau.com/profile/ankur3446#!)
-## Frameworks and Libraries
->TensorFlow 2, Keras, Sklearn, SKimage, NLTK, Flask, ONNX, Jupyter
 
->Gensim, ggplot2, Matplotlib, numpy, scipy, D-Lib, TensorRT, open-cv, Firebase, SQL, Pandas, json
+## Data Engineering and Backend
+> Model Deployment over Cloud (Azure, GCP, AWS, Linode, Heroku), Model Deployment over Edge Devices, Model Deployment over Mobile Applications, RESTApi Development, Scalable Cloud Hosting, Data Pipelines, Data Warehousing, Data Wrangling
+
+
+## Frameworks and Libraries
+>TensorFlow 2, Keras, Sklearn, SKimage, NLTK, Flask, ONNX, Jupyter, OpenVino
+
+>Gensim, ggplot2, Matplotlib, numpy, scipy, D-Lib, TensorRT, open-Cv, Pandas, json
 ## Databases
 > MYSQL, SQLite, No SQL, Firebase, Microsoft SQLserver
 ## IoT
@@ -49,17 +55,10 @@ Checkout my [RESUME](https://www.dropbox.com/s/bkqcpfdfp6155p4/Ankur_Resume.pdf?
 
 >Check My QwikLabs Profile here --> <a href="https://www.qwiklabs.com/public_profiles/1d0b8f31-f62d-4e8e-9770-644baca0041f" target="blank"><img align="center" src="https://1.bp.blogspot.com/-Of27Ewb6GRc/XJbAUXBXjnI/AAAAAAAAJbw/uAxGLY5-9JU1GUJcNBenxK_wSs6un2hsgCK4BGAYYCw/s1600/logo%2Bqwiklabs%2Bicon.png" alt="Ankurvermaaxz@gmail.com" height="25" width="25" /> [QwikLabs Profile](https://www.qwiklabs.com/public_profiles/1d0b8f31-f62d-4e8e-9770-644baca0041f)
 # Currently Learning🎯
-👉 Devops and MLops
-
-👉 Cloud Computing - GCP and Azure
 
 👉 Big Data Analytics
 
-👉 Serverless and ML Deployment over Azure Pipelines
-
-👉 ML deployment over Edge
-
-👉 ML deployment: Android and iOS --> Tflite, Tf.js, CoreML
+👉 Apache Kafka, PravegaIO, Apache Spark, Hadoop
 
 👉 Promethus and Grafana
 
