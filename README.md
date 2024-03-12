@@ -1,77 +1,28 @@
-# Hi there 👋, Welcome to my Github Profile
-
-<p align="center">
-
- <img src="https://komarev.com/ghpvc/?username=ankuraxz" alt="Visitor Count" />
-  <a href="https://twitter.com/intent/follow?screen_name=DEV__ankur">
-        <img src="https://img.shields.io/twitter/follow/DEV__ankur?style=social&logo=twitter"
-            alt="follow on Twitter"></a>
- <a href="https://github.com/Ankuraxz?tab=followers">
-        <img src="https://img.shields.io/github/followers/Ankuraxz?label=Follow&style=social"
-            alt="follow on Github"></a>
-             
-</p>
-
-![Ankur's github stats](https://github-readme-stats.vercel.app/api?username=Ankuraxz&show_icons=true&theme=gotham&hide=issues,stars&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankuraxz&layout=compact)](https://github.com/ankuraxz/github-readme-stats)
-
-🔭 __About me:__  I am Ankur ([GitHub Campus Expert 🚩](https://githubcampus.expert/Ankuraxz)), an Engineering Grad. (Electronics and Communication Engineering). Currently I am a Project Engineer [@Wipro](https://www.wipro.com/), Former Backend Engineer [@Zopper](https://www.zopper.com/), a Data Analytics practitioner and Cloud-Devops Enthusiast. I love visualizing and playing with data specially Images. I recently won __*Smart India Hackathon 2020*__ which is the Largest Open innovation model Hackathon in India organised by Government of India powered by Amazon and Intel. I am also mentor at various students clubs like [@dscuietkuk](https://github.com/dscuietkuk), IOSD, MSP etc. In my free time, I love to cook my favourite recipies, do gardening, read spritual texts and surf social media. 
-
-I am also creator at  <a href="https://www.instagram.com/roboticsunited/?hl=en" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" height="25" width="25" />[ROBOTICSUNITED](https://www.instagram.com/roboticsunited/?hl=en)  <a href="https://www.youtube.com/ANKURaxz" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" alt="ANKURaxz" height="25" width="35" />[YOUTUBE](https://www.youtube.com/ANKURaxz) 
- 
-Checkout my [RESUME](https://www.dropbox.com/s/bkqcpfdfp6155p4/Ankur_Resume.pdf?dl=0 "Ankur's Resume")
+# Hi there 👋, Welcome to my GitHub Profile
+# 💫 About Me:
+🔭 I'm Ankur, an Electrical & Computer Engineering Master's student at Concordia University, Montreal & Backend Engineering Intern at IBM Montreal<br>🌱 I’m currently learning and working on Generative AI, Cloud Computing and LLMOps <br>💻 I'm a big time Hackathon Enthusiast, and have participated in over 18 hackathons in domains of Generative AI, BlockChain, ML, IoT, Cloud Computing & Robotics<br>👯 I’m looking to collaborate on Generative AI, Machine Learning, Image Processing, Computer Vision, IoT, Cloud Computing and Backend Development<br>💬 Ask me about anything AI, Cloud and DevOps<br>
 
 
-# Skills🥇
-## Languages
-> Python 3, C/C++, SQL, Arduino, MATLAB, NoSQL
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ankurvermaaxz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ankuraxz) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9782747) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/DEV__ANKUR) 
 
-## OS
-> Ubuntu, Windows
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat&logo=datadog&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Linode](https://img.shields.io/badge/linode-00A95C?style=flat&logo=linode&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat&logo=apollo-graphql) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat&logo=Apache%20Flink&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=flat&logo=Cockroach%20Labs&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=InfluxDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![ARGOCD](https://img.shields.io/badge/argo-EF7B4D.svg?style=flat&logo=argo&logoColor=white&color=%23EF7B4D) ![APACHEKAFKA](https://img.shields.io/badge/apachekafka-231F20.svg?style=flat&logo=apachekafka&logoColor=white&color=%23231F20) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=flat&logo=azuredevops&logoColor=white&color=%230078D7) ![CIRCLECI](https://img.shields.io/badge/CIRCLECI-02303A.svg?style=flat&logo=CIRCLECI&logoColor=white&color=%23343434) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=flat&logo=grafana&logoColor=white&color=%23F46800) ![ISTIO](https://img.shields.io/badge/istio-466BB0.svg?style=flat&logo=istio&logoColor=white&color=%23466BB0) ![KIBANA](https://img.shields.io/badge/kibana-005571.svg?style=flat&logo=kibana&logoColor=white&color=%23005571) ![LOGSTASH](https://img.shields.io/badge/logstash-005571.svg?style=flat&logo=logstash) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=flat&logo=prometheus&logoColor=white&color=%23E6522C) ![PODMAN](https://img.shields.io/badge/podman-892CA0.svg?style=flat&logo=podman&logoColor=white) ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=flat&logo=sonarqube&logoColor=white&color=%234E9BCD) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=flat&logo=SONARLINT&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ankuraxz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ankuraxz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankuraxz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Data Science
-> Machine Learning, Deep Learning, Predictive Modelling, Data Analysis, Data Visualization, Computer Vision, SQL, Natural Language Processing, Image Processing, Tableau  and Stats.
->Check My Tableau Profile here --> <a href="https://public.tableau.com/profile/ankur3446#!" target="blank"><img align="center" src="https://i.pinimg.com/originals/86/35/88/863588a71e465cc3aa5d822c0feafea9.png" alt="Ankurvermaaxz@gmail.com" height="30" width="35" /> [Tableau Profile](https://public.tableau.com/profile/ankur3446#!)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ankuraxz&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-## Data Engineering and Backend
-> Model Deployment over Cloud (Azure, GCP, AWS, Linode, Heroku), Model Deployment over Edge Devices, Model Deployment over Mobile Applications, RESTApi Development, Scalable Cloud Hosting, Data Pipelines, Data Warehousing, Data Wrangling
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ankuraxz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Frameworks and Libraries
->TensorFlow 2, Keras, Sklearn, SKimage, NLTK, Flask, ONNX, Jupyter, OpenVino
+---
+[![](https://visitcount.itsvg.in/api?id=ankuraxz&icon=0&color=1)](https://visitcount.itsvg.in)
 
->Gensim, ggplot2, Matplotlib, numpy, scipy, D-Lib, TensorRT, open-Cv, Pandas, json
-## Databases
-> MYSQL, SQLite, No SQL, Firebase, Microsoft SQLserver
-## IoT
->Arduino with sensors, Raspberry Pi, Nvidia Jetson nano, NodeMCU
-
->Proteus, EasyEDA, Fritzing, TinkerCAD, Thingspeak and Adafruit.io
-## Other
->Data structures and Algorithms, Kubernetes, Docker, RESTapi GKE, Git, Azure, GCP, VScode, Vim, Sublime Text
-
->Check My QwikLabs Profile here --> <a href="https://www.qwiklabs.com/public_profiles/1d0b8f31-f62d-4e8e-9770-644baca0041f" target="blank"><img align="center" src="https://1.bp.blogspot.com/-Of27Ewb6GRc/XJbAUXBXjnI/AAAAAAAAJbw/uAxGLY5-9JU1GUJcNBenxK_wSs6un2hsgCK4BGAYYCw/s1600/logo%2Bqwiklabs%2Bicon.png" alt="Ankurvermaaxz@gmail.com" height="25" width="25" /> [QwikLabs Profile](https://www.qwiklabs.com/public_profiles/1d0b8f31-f62d-4e8e-9770-644baca0041f)
-# Currently Learning🎯
-
-👉 Big Data Analytics
-
-👉 Apache Kafka, PravegaIO, Apache Spark, Hadoop
-
-👉 Promethus and Grafana
-
-# Looking to Collaborate on 👯
-I’m looking to collaborate on Almost anything related to ML and beyond. Always looking for great opportunities and Ideas  
-
-# ASK ME ABOUT 💬
-Ask me about Machine Learning, Deep Learning, Image Processing and Computer Vision
-
-# CONTACT ME 📫
-<a href="mailto:ankurvermaaxz@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" alt="Ankurvermaaxz@gmail.com" height="25" width="35" /> [Email](mailto:ankurvermaaxz@gmail.com)
-
-<a href="https://www.linkedin.com/in/ankuraxz/" target="blank"><img align="center" src="https://icon-library.com/images/linkedin-icon-eps/linkedin-icon-eps-29.jpg" alt="Ankuraxz" height="25" width="25" /> [LinkedIn](https://www.linkedin.com/in/ankuraxz/)
-
-<a href="https://twitter.com/DEV__Ankur" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="DEV__Ankur" height="25" width="25" />  [Twitter](https://twitter.com/DEV__Ankur)
-
-# ⚡ Quote ⚡: 
-__*"What I can't create, I don't understand"*__ - R.Feynman  
-
+<!-- Created with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
